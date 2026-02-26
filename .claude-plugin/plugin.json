@@ -1,0 +1,21 @@
+{
+  "name": "intertrust",
+  "version": "0.1.0",
+  "description": "Agent trust scoring — reputation tracking, severity-weighted decay, and suppression candidates.",
+  "author": {
+    "name": "MK",
+    "email": "mistakeknot@vibeguider.org"
+  },
+  "repository": "https://github.com/mistakeknot/intertrust",
+  "license": "MIT",
+  "keywords": [
+    "trust",
+    "reputation",
+    "scoring",
+    "feedback",
+    "agents"
+  ],
+  "commands": [
+    "./commands/trust-status.md"
+  ]
+}
