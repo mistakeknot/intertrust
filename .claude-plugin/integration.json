@@ -1,0 +1,9 @@
+{
+  "name": "intertrust",
+  "companions": {
+    "recommended": [
+      "interspect"
+    ],
+    "optional": []
+  }
+}

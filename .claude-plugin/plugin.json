@@ -17,8 +17,5 @@
   ],
   "commands": [
     "./commands/trust-status.md"
-  ],
-  "peerDependencies": [
-    "interspect"
   ]
 }
