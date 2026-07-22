@@ -1,6 +1,6 @@
 # intertrust
 
-Agent trust scoring for Claude Code. Tracks which review agents produce useful findings and which waste tokens.
+Agent trust scoring for Claude Code, Codex, and Kimi Code. Tracks which review agents produce useful findings and which waste tokens.
 
 ## What this does
 
